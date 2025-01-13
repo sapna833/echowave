@@ -1,3 +1,3 @@
 # EchoWave
 a music website with css js
-https://6784ca458049d0da23efa90d--lucky-piroshki-cd058e.netlify.app/
+https://6784cec10979b5c576c65f82--heartfelt-jelly-f4e027.netlify.app/
